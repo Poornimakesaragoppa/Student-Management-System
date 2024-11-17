@@ -4,7 +4,7 @@ proect Name - "Student Result Management System"
 
 Mentor Name:- Pramukh
 
-Developer Name:- Poornima 
+Developer Name:- Poornima M K
 
 
 Objective:- The objective of this project is to help the teachers of private classes to maintain the details of courses,students and declare the results of student with the secure login into the system. The student can login with their id and they can also see their results.
